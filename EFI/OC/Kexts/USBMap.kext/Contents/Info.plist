@@ -89,13 +89,15 @@
 					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>#port</key>
+						<integer>3</integer>
+						<key>port</key>
 						<data>BAAAAA==</data>
 						<key>usb-port-type</key>
-						<integer>0</integer>
-						<key>#usb-port-number</key>
+						<integer>3</integer>
+						<key>usb-port-number</key>
 						<data>BAAAAA==</data>
+						<key>Comment</key>
+						<string>Dock</string>
 					</dict>
 					<key>HS05</key>
 					<dict>
